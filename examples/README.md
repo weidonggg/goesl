@@ -31,7 +31,7 @@ import (
     "syscall"
     "time"
 
-    "github.com/goesl/goesl"
+    "github.com/weidonggg/goesl"
 )
 
 func main() {
@@ -84,7 +84,7 @@ import (
     "log"
     "time"
 
-    "github.com/goesl/goesl"
+    "github.com/weidonggg/goesl"
 )
 
 type CustomLogger struct{}
@@ -223,4 +223,4 @@ type Event struct {
 ## 更多信息
 
 - [FreeSWITCH ESL 文档](https://freeswitch.org/confluence/display/FREESWITCH/Event+Socket+Library)
-- [goesl 库文档](https://github.com/goesl/goesl)
+- [goesl 库文档](https://github.com/weidonggg/goesl)

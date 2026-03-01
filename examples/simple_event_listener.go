@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/goesl/goesl"
+	"github.com/weidonggg/goesl"
 )
 
 func main() {

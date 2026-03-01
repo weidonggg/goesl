@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/goesl/goesl"
+	"github.com/weidonggg/goesl"
 )
 
 type CustomLogger struct{}

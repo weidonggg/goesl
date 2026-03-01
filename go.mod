@@ -1,3 +1,3 @@
-module github.com/goesl/goesl
+module github.com/weidonggg/goesl
 
 go 1.21
